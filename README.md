@@ -26,6 +26,7 @@
     <td align="center"><a href="https://github.com/Isildur46"><img src="https://avatars.githubusercontent.com/u/19759799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Isildur46</b></sub></a><br /><a href="https://github.com/whatwg-cn/html/commits?author=Isildur46" title="Documentation">📖</a></td>
     <td align="center"><a href="https://redhat123456.github.io/"><img src="https://avatars.githubusercontent.com/u/57751257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>redhat123456</b></sub></a><br /><a href="https://github.com/whatwg-cn/html/commits?author=redhat123456" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Aoy-007"><img src="https://avatars.githubusercontent.com/u/71959131?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Papa Aoy</b></sub></a><br /><a href="https://github.com/whatwg-cn/html/commits?author=Aoy-007" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bige-cyz"><img src="https://avatars.githubusercontent.com/u/60975450?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bige-cyz</b></sub></a><br /><a href="https://github.com/whatwg-cn/html/commits?author=bige-cyz" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/tom-and-jary"><img src="https://avatars.githubusercontent.com/u/6580897?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tom-and-jary</b></sub></a><br /><a href="https://github.com/whatwg-cn/html/commits?author=tom-and-jary" title="Documentation">📖</a></td>
   </tr>
 </table>
