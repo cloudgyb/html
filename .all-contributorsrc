@@ -1,6 +1,6 @@
 {
   "projectName": "html",
-  "projectOwner": "harttle",
+  "projectOwner": "whatwg-cn",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -99,7 +99,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "tom-and-jary",
+      "name": "tom-and-jary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6580897?v=4",
+      "profile": "https://github.com/tom-and-jary",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
